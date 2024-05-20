@@ -13,14 +13,14 @@ I'm a passionate Web3 developer with expertise in building decentralized applica
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 - **Languages**: Solidity, JavaScript, TypeScript, Python
-- **Frameworks**: Hardhat, Truffle, Next.js, React
+- **Frameworks**: Hardhat, Next.js, React
 - **Blockchain Platforms**: Ethereum, Binance Smart Chain, Polygon
-- **Tools**: MetaMask, Remix, Ganache, Infura
+- **Tools**: MetaMask, Remix, Infura
 - **Protocols**: ERC-20, ERC-721, IPFS, DeFi
 
 ## 🔗 EVM Wallet Address
 
-- **Ethereum (Mainnet)**: `0xYourWalletAddressHere`
+- **Ethereum (Mainnet)**: `0xf9e10b14B198e738b40e4468e5A2276C01834A42`
 
 ## 🌱 I’m currently learning
 - Advanced Solidity patterns for gas optimization and security.
