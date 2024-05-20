@@ -41,16 +41,6 @@ I'm a passionate Web3 developer with expertise in building decentralized applica
 - **Tools**: MetaMask, Remix, Ganache, Infura
 - **Protocols**: ERC-20, ERC-721, IPFS, DeFi
 
-## 🌟 Open Source Contributions
-
-- Contributed to [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts): Improved security features in ERC-20 token implementation.
-- Developed [Feature/Module] for [Project Name](https://github.com/projectname): Implemented a decentralized voting system using Solidity.
-
-## 📜 Certifications & Courses
-
-- **Certified Ethereum Developer** - [Blockchain Institute](https://blockchaininstitute.com)
-- **DeFi 101** - [DeFi Academy](https://defiacademy.com)
-- **Solidity Programming** - [Coursera](https://coursera.org/learn/solidity-programming)
 
 ## 🔗 EVM Wallet Address
 
