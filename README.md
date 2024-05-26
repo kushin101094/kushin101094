@@ -20,7 +20,7 @@ I'm a passionate Web3 developer with expertise in building decentralized applica
 
 ## 🔗 EVM Wallet Address
 
-- **EVM**: `0xf9e10b14B198e738b40e4468e5A2276C01834A42`
+- **EVM**: `ntbnodes.eth`
 
 ## 🌱 I’m currently learning
 - Advanced Solidity patterns for gas optimization and security.
